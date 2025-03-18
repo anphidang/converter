@@ -5,13 +5,12 @@ int main() {
   int reais;
   int soles;
   int dollars;
-  std::cout << "Enter number of Colombian Pesos:
-";
+  std::cout << "Enter number of Colombian Pesos:\n";
   std::cin >> pesos;
-  std::cout << "Enter number of Brazilian Reais:
+  std::cout << "Enter number of Brazilian Reais\n:
 ";
   std::cin >> reais;
-  std::cout << "Enter number of Peruvian Soles:
+  std::cout << "Enter number of Peruvian Soles\n:
 ";
   std::cin >> soles;
 
